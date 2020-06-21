@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Error = () => {
+const Contact = () => {
     return (
         <div>
-            <h2>404</h2>
+            <h2>contact us</h2>
         </div>
     );
 };
 
-export default Error;
+export default Contact;

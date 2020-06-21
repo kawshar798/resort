@@ -3,7 +3,7 @@ import React from 'react';
 const SingleRoom = () => {
     return (
         <div>
-            <h2>Single page</h2>
+            <h2>Single room</h2>
         </div>
     );
 };
